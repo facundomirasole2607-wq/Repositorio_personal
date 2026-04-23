@@ -1,0 +1,75 @@
+====================================================
+E.E.S.T. N°1 MUÑIZ - MODELOS Y SISTEMAS
+PROFESOR: OMAR ALEJANDRO BAZAR | CURSO: 7° 4°
+====================================================
+REPORTE TP N°1: TGS
+FECHA: 23/4/2026, 6:42:09 p. m. | EQUIPO N°: 1
+REPOSITORIO: https://github.com/facundomirasole2607-wq/Repositorio_personal
+====================================================
+
+CARGO: LÍDER TÉCNICO
+INTEGRANTE: SIN NOMBRE
+----------------------------------------------------
+
+----------------------------------------------------
+
+CARGO: ANALISTA FUNCIONAL
+INTEGRANTE: SIN NOMBRE
+----------------------------------------------------
+
+----------------------------------------------------
+
+CARGO: PROGRAMADOR SENIOR
+INTEGRANTE: Facundo Taiel Mirasole 
+----------------------------------------------------
+Desde la perspectiva de un desarrollador senior, el software se entiende como un sistema complejo.
+Este sistema se organiza en múltiples capas interrelacionadas.
+Dicha organización responde a una lógica estructural bien definida.
+Se vincula con la jerarquía de sistemas propuesta por Bertalanffy.
+Cada nivel cumple un rol específico dentro del conjunto total.
+La modularización permite dividir el sistema en partes más pequeñas.
+Estas partes son conocidas como módulos independientes.
+Cada módulo tiene una responsabilidad concreta y delimitada.
+A su vez, funciona como un subsistema dentro de un sistema mayor.
+Esto facilita la comprensión y el desarrollo del software.
+El encapsulamiento establece límites claros entre componentes.
+Oculta los detalles internos de cada módulo.
+Solo expone lo estrictamente necesario mediante interfaces.
+Esto reduce la probabilidad de errores en el sistema.
+También mejora significativamente su mantenimiento.
+Estos principios favorecen una alta cohesión interna.
+Cada módulo se enfoca en una única tarea específica.
+Además, promueven un bajo acoplamiento entre módulos.
+Es decir, disminuyen la dependencia entre componentes.
+Esto permite que el sistema sea más escalable.
+El software actual se comporta como un sistema abierto.
+Interactúa constantemente con sistemas externos.
+Por ejemplo, APIs, servicios y bases de datos.
+Las interfaces cumplen un rol fundamental en este contexto.
+Actúan como mecanismos de comunicación controlada.
+Permiten la interacción sin comprometer la integridad.
+Además, el desarrollador senior debe garantizar estabilidad.
+Esto implica mantener el sistema funcional ante cambios.
+También frente a errores o situaciones inesperadas.
+Este equilibrio se conoce como homeostasis.
+Se logra mediante buenas prácticas de desarrollo.
+Incluye manejo adecuado de errores y diseño sólido.
+En síntesis, la modularización organiza el sistema.
+El encapsulamiento protege su estructura interna.
+Las interfaces permiten la comunicación entre componentes.
+Todo esto contribuye a un software más robusto.
+También más flexible y adaptable a distintos contextos.
+----------------------------------------------------
+
+CARGO: PROGRAMADOR JUNIOR
+INTEGRANTE: SIN NOMBRE
+----------------------------------------------------
+
+----------------------------------------------------
+
+CARGO: QA / TESTER
+INTEGRANTE: SIN NOMBRE
+----------------------------------------------------
+
+----------------------------------------------------
+
